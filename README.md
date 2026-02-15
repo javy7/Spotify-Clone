@@ -12,3 +12,11 @@ Reusable and modular React components
 Interactive UI for music browsing and playback (mock data)
 
 Styled using Tailwind CSS for fast and consistent design
+
+## Tech Stack
+
+Front-end: React.js, Tailwind CSS
+
+Languages: JavaScript, HTML, CSS
+
+Tools: VS Code, npm
