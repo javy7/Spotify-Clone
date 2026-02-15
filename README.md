@@ -1,7 +1,7 @@
 # Spotify-Clone
 A responsive music streaming web application inspired by Spotify's UI/UX, built using React.js and Tailwind CSS. The project demonstrates component-based architecture, dynamic routing, and modern front-end development practices.
 
-##Features
+## Features
 
 Responsive design for desktop and mobile devices
 
